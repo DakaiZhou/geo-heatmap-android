@@ -1,0 +1,2 @@
+rootProject.name='data_in_world_map'
+include ':app'
